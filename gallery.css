@@ -1,0 +1,15 @@
+.gallery-projects{
+    background-color: inherit;
+    overflow:initial;
+    width: 895px;
+    height: auto;
+}
+
+.projects-list{
+    flex-direction: column;
+}
+
+
+section.projects-page .project{
+    width: 100%; 
+}
